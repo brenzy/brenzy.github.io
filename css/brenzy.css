@@ -1,0 +1,26 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.site-header {
+  font-size: 48px;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-weight: bolder;
+}
+
+.sub-title {
+  font-size: 32px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.project-list {
+  text-align: center;
+}
+
+.project-list ul {
+  list-style: none;
+  font-size: 32px;
+}
